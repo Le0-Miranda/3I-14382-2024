@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     title: Leonardo Miranda
     subtitle: Técnico de Gestão e Programação de Sistemas Informáticos
