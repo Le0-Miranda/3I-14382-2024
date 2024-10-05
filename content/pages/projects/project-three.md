@@ -4,7 +4,7 @@ title: Formação em Contexto de Trabalho
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: 'Estágio na 3Ds Informática LDA '
+description: 'Estágio na 3Ds Informática LDA, com o objetivo de por em prática'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
