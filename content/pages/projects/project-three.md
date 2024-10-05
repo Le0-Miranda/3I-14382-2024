@@ -10,7 +10,7 @@ description: >-
   2ºAno-Abril 2023
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/logo-white.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
