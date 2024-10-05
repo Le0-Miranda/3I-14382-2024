@@ -4,7 +4,7 @@ title: Página de Acesso a Base de Dados
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: 'Desenvolvimento de uma página WEB '
+description: 'Desenvolvimento de uma página WEB, usando por base a linguagem HTML/PHP, '
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
