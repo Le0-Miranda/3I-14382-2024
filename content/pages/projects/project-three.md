@@ -4,7 +4,7 @@ title: Formação em Contexto de Trabalho
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: '2º Ano - Abril 2023 '
+description: 'Estágio '
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
