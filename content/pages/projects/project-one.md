@@ -9,7 +9,7 @@ description: >-
   conectando uma base de dados à página WEB.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Captura de ecrã 2024-10-05 174027.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
