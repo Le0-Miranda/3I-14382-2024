@@ -14,7 +14,7 @@ featuredImage:
   url: /images/b257db32994309.5605d1185dcca.png
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/b257db32994309.5605d1185dcca.png
   altText: Project image
 ---
 
