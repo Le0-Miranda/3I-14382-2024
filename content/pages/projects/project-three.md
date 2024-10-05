@@ -1,18 +1,20 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Formação em Contexto de Trabalho
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Estágio na 3Ds Informática LDA, com o objetivo de por em prática as
+  capacidades aprendidas em aula e vivenciar o dia a dia profissional.
+  2ºAno-Abril 2024
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
   altText: Project thumbnail image
+  url: /images/b257db32994309.5605d1185dcca.png
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/b257db32994309.5605d1185dcca.png
   altText: Project image
 ---
 
