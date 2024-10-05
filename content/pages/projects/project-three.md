@@ -5,7 +5,7 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  Estágio na 3Ds Informática LDA, com o objetivo de por em prática as minhas
+  Estágio na 3Ds Informática LDA, com o objetivo de por em prática as
   capacidades aprendidas em aula e ter em mente o dia a dia profissional.
   2ºAno-Abril 2023
 featuredImage:
