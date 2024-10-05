@@ -10,7 +10,6 @@ description: >-
   2ºAno-Abril 2023
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-05 162253.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
