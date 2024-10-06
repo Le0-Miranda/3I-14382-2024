@@ -192,7 +192,7 @@ sections:
     type: FeaturedProjectsSection
     elementId: ''
     actions: []
-    showDate: false
+    showDate: true
     showDescription: true
     showFeaturedImage: true
     showReadMoreLink: true
