@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Página de Acesso a Base de Dados
 colors: colors-a
-date: '2021-10-15'
+date: ''
 client: Awesome client
 description: >-
   Desenvolvimento de uma página WEB, usando por base a linguagem HTML/PHP,
