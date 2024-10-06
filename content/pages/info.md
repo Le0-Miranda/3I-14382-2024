@@ -185,7 +185,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: Item Title
+        title: 'Nome:'
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
