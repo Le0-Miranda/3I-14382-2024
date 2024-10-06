@@ -50,8 +50,8 @@ sections:
       elementId: ''
   - type: CtaSection
     title: Biografia
-    text: >+
-      # **Olá!**
+    text: >
+      ## **Olá!**
 
 
       O meu nome é Leonardo Rafael Carvalho Miranda e tenho 17 anos. Sou natural
@@ -61,13 +61,6 @@ sections:
 
 
       Ao longo do tempo desenvolvi capacidades na Programação e Hardware.
-
-
-
-
-
-
-
     actions: []
     colors: colors-f
     backgroundSize: full
