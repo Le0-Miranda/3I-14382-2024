@@ -176,7 +176,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Email:'
     colors: colors-f
     text: |
       [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
