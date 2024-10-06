@@ -65,10 +65,10 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: 70%
+        label: Hardware
         url: ''
       - type: Label
-        label: Hardware
+        label: 70%
         url: ''
       - type: Label
         label: Empreendedor
