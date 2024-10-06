@@ -193,7 +193,7 @@ sections:
     elementId: ''
     actions: []
     showDate: false
-    showDescription: true
+    showDescription: false
     showFeaturedImage: true
     showReadMoreLink: false
     variant: variant-b
