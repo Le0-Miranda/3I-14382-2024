@@ -184,7 +184,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projetos
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Contacte-me
     items:
       - type: FeaturedItem
         title: 'Email:'
