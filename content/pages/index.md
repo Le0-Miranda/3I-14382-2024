@@ -73,9 +73,6 @@ sections:
       - type: Label
         label: Criativo
         url: ''
-      - type: Label
-        label: 70%
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
