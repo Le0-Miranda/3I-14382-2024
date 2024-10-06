@@ -197,7 +197,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Telémovel
+        title: 'Telemóvel:'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
