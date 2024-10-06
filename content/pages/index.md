@@ -59,10 +59,10 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: 70%
+        label: Python
         url: ''
       - type: Label
-        label: Python
+        label: 70%
         url: ''
       - type: Label
         label: Java
