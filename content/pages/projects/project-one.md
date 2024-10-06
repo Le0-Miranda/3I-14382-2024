@@ -19,3 +19,4 @@ media:
   elementId: ''
 bottomSections: []
 ---
+![](/images/Captura%20de%20ecr%C3%A3%202024-10-05%20174334.png)
