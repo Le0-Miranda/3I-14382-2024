@@ -63,7 +63,7 @@
     "buttonSecondary": {
         "weight": "normal",
         "case": "uppercase",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "horizontalPadding": 30,
         "verticalPadding": 15
     },
