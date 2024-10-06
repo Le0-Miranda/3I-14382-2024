@@ -89,47 +89,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: LabelsSection
-    title: Competências
-    subtitle: ''
-    items:
-      - type: Label
-        label: HTML
-        url: ''
-      - type: Label
-        label: PHP
-        url: ''
-      - type: Label
-        label: Python
-        url: ''
-      - type: Label
-        label: Java
-        url: ''
-      - type: Label
-        label: Hardware
-        url: ''
-      - type: Label
-        label: Empreendedor
-        url: ''
-      - type: Label
-        label: Criativo
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
