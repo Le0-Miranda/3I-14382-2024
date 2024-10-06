@@ -19,16 +19,7 @@
                 "url": "/projects"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Instagram",
-                "altText": "",
-                "url": "/",
-                "icon": "instagram",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
