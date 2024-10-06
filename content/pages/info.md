@@ -95,7 +95,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learn more
+            label: TikTok
             altText: ''
             url: '/https://www.tiktok.com/@fmtplays'
             showIcon: false
