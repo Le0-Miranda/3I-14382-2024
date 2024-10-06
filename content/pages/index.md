@@ -106,7 +106,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/icone-cercle-orange (5).png
+        url: /images/icone-cercle-orange (6).png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
