@@ -191,16 +191,7 @@ sections:
         subtitle: ''
         text: |
           a14382\@oficina.pt
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
