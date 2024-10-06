@@ -68,7 +68,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Trabalho em equipa
+        label: Empreendedor
         url: ''
       - type: Label
         label: Criativo
