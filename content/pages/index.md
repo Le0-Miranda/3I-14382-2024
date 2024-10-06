@@ -68,7 +68,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: C++
+        label: Trabalho em equipa
         url: ''
       - type: Label
         label: Swift
