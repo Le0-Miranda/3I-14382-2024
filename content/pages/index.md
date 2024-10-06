@@ -90,7 +90,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/icone-cercle-orange (1).png
+        url: /images/icone-cercle-orange (2).png
         altText: Image three
         caption: Image three caption
         elementId: ''
