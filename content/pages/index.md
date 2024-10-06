@@ -56,10 +56,10 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: PHP
+        label: 70%
         url: ''
       - type: Label
-        label: 70%
+        label: PHP
         url: ''
       - type: Label
         label: Python
