@@ -17,17 +17,12 @@
                 "type": "Link",
                 "label": "Projetos",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Instagram",
                 "altText": "",
                 "url": "/",
                 "icon": "instagram",
@@ -51,14 +46,8 @@
             },
             {
                 "type": "Link",
-                "label": "Contato",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Projetos",
+                "url": "/projects",
                 "altText": ""
             }
         ],

@@ -61,10 +61,10 @@
         "verticalPadding": 15
     },
     "buttonSecondary": {
-        "weight": "normal",
-        "case": "none",
-        "letterSpacing": "normal",
-        "horizontalPadding": 20,
+        "weight": "medium",
+        "case": "uppercase",
+        "letterSpacing": "tight",
+        "horizontalPadding": 25,
         "verticalPadding": 15
     },
     "link": {
