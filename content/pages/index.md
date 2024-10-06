@@ -56,6 +56,9 @@ sections:
         label: HTML
         url: ''
       - type: Label
+        label: 70%
+        url: ''
+      - type: Label
         label: PHP
         url: ''
       - type: Label
