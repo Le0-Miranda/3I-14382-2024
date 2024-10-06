@@ -59,7 +59,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Python
         url: ''
       - type: Label
         label: Next.js
