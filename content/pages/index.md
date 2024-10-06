@@ -207,7 +207,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: 'Nome:'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
