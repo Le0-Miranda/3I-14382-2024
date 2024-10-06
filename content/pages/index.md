@@ -197,20 +197,20 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Email:'
+        title: 'Telemóvel:'
         subtitle: ''
         text: |
-          a14382\@oficina.pt
+          918816360
         actions: []
         elementId: ''
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Telemóvel:'
+        title: 'Email:'
         subtitle: ''
         text: |
-          918816360
+          a14382\@oficina.pt
         actions: []
         elementId: ''
         styles:
