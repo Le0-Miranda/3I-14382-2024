@@ -187,6 +187,16 @@ sections:
     title: Contacte-me
     items:
       - type: FeaturedItem
+        title: 'Nome:'
+        subtitle: ''
+        text: |
+          Leonardo Miranda
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: 'Email:'
         subtitle: ''
         text: |
@@ -201,16 +211,6 @@ sections:
         subtitle: ''
         text: |
           918816360
-        actions: []
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: 'Nome:'
-        subtitle: ''
-        text: |
-          Leonardo Miranda
         actions: []
         elementId: ''
         styles:
