@@ -199,10 +199,8 @@ sections:
       - type: FeaturedItem
         title: 'Telemóvel:'
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          918816360
         featuredImage:
           type: ImageBlock
           url: >-
