@@ -56,7 +56,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: React
+        label: PHP
         url: ''
       - type: Label
         label: Microsoft Office
