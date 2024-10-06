@@ -10,31 +10,53 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: HeroSection
+    title: >-
+      Sou um aluno que frequenta o curso de Gestão e Programação de Sistemas
+      Informáticos.
+    subtitle: >-
+      Sou um aluno empreendedor, criativo e emprenhado, gosto de programar,
+      praticar desporto, pesquisar mais a fundo sobre programação. Nos meus
+      temos livres, gosto de editar vídeos, e de testar meu conhecimento sobre
+      programação e hardware.
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: 'Experiências curriculares:'
+        text: |+
+          **2023:**
 
-          * freelance @freelance.me
+          *   Mini Estágio FCT na Empresa SWAPPIE
 
-          **2018-2021**
+          **2024:**
 
-          * fullstack at this startup
+          *   FCT na Empresa 3Ds Lda
 
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -44,19 +66,16 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: Percurso Escolar
+        text: |+
+          **2017-2022**
 
-          * ba computer sciense at a semi fancy school
+          *   EB23 - Escola de Ribeirão
 
-          **2014**
+          **2022 até ao presente**
 
-          * react certificate somewhere
+          *   OFICINA - Escola Profissional
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -109,40 +128,13 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: TikTok
+            altText: ''
+            url: '/https://www.tiktok.com/@fmtplays'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
@@ -175,23 +167,75 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Podem encontrar-me aqui:'
   - type: DividerSection
+    title: Divider
+    elementId: ''
     styles:
       self:
-        width: wide
+        width: narrow
         padding:
-          - pt-12
-          - pb-12
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
         borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
+  - type: FeaturedItemsSection
+    title: Value propositions
+    items:
+      - type: FeaturedItem
+        title: 'Nome:'
+        subtitle: ''
+        text: |
+          Leonardo Miranda
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'Telemóvel:'
+        subtitle: ''
+        text: |
+          918816360
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'Email:'
+        subtitle: ''
+        text: |
+          a14382\@oficina.pt
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
