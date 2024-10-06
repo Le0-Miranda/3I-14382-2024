@@ -169,7 +169,7 @@ sections:
         textAlign: left
     subtitle: 'Podem encontrar-me aqui:'
   - type: ContactSection
-    title: Contact Me
+    title: Conta
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
