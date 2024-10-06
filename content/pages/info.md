@@ -16,7 +16,9 @@ sections:
       Informáticos.
     subtitle: >-
       Sou um aluno empreendedor, criativo e emprenhado, gosto de programar,
-      praticar desporto, pesquisar mais a fundo sobre programação.
+      praticar desporto, pesquisar mais a fundo sobre programação. Nos meus
+      temos livres, gosto de editar vídeos, e de testar meu conhecimento sobre
+      programação e hardware.
     actions: []
     colors: colors-f
     backgroundSize: full
