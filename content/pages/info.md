@@ -34,18 +34,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: Percurso Escolar
-        text: |-
-          **2015-2018**
+        text: |+
+          **2017-2022**
 
-          * ba computer sciense at a semi fancy school
+          *   EB23 - Escola de Ribeirão
 
-          **2014**
+          **2022 até ao presente**
 
-          * react certificate somewhere
+          *   OFICINA - Escola Profissional
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
