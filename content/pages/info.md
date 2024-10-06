@@ -18,7 +18,7 @@ sections:
         text: |+
           **2023:**
 
-          ##### Mini Estágio FCT na Empresa SWAPPIE
+          *   Mini Estágio FCT na Empresa SWAPPIE
 
         styles:
           self:
