@@ -71,7 +71,7 @@ sections:
         label: Empreendedor
         url: ''
       - type: Label
-        label: C++
+        label: Criativo
         url: ''
       - type: Label
         label: Swift
