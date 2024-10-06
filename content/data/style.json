@@ -64,7 +64,7 @@
         "weight": "medium",
         "case": "uppercase",
         "letterSpacing": "normal",
-        "horizontalPadding": 24,
+        "horizontalPadding": 23,
         "verticalPadding": 15
     },
     "link": {
