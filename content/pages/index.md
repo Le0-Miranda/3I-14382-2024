@@ -68,7 +68,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Pancakes
+        label: Empreendedor
         url: ''
       - type: Label
         label: C++
