@@ -53,7 +53,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML                                                   70%
+        label: HTML
         url: ''
       - type: Label
         label: PHP
