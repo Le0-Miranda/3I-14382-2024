@@ -53,9 +53,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: React
-        url: ''
-      - type: Label
         label: HTML
         url: ''
       - type: Label
