@@ -97,7 +97,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: Ver todos os Projetos
+        label: ''
         url: ''
     showDate: false
     showDescription: true
