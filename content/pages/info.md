@@ -20,6 +20,10 @@ sections:
 
           *   Mini Estágio FCT na Empresa SWAPPIE
 
+          **2024:**
+
+          *   FCT na Empresa 3Ds Lda
+
         styles:
           self:
             textAlign: left
