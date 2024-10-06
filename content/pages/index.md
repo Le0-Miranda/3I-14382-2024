@@ -80,7 +80,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/icone-cercle-orange (2).png
+        url: /images/icone-cercle-orange.png
         altText: Image one
         caption: Image one caption
         elementId: ''
