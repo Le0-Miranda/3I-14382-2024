@@ -65,7 +65,7 @@ sections:
         label: Java
         url: ''
       - type: Label
-        label: Pancakes
+        label: Hardware
         url: ''
       - type: Label
         label: C++
