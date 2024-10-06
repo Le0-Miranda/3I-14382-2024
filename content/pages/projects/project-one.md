@@ -13,4 +13,4 @@ featuredImage:
   altText: Project thumbnail image
 bottomSections: []
 ---
-![](/images/Captura%20de%20ecr%C3%A3%202024-10-05%20174334.png)
+![](https://preview--leonardomiranda-14327.stackbit.dev/images/Captura%20de%20ecr%C3%A3%202024-10-05%20174334.png)[2I-14382-PSI – Google Drive](https://drive.google.com/drive/u/0/folders/1AwE78jKxjnRSqXooEIC5BjpzBf9zwsvN)
