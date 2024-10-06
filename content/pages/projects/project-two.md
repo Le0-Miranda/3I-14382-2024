@@ -11,8 +11,4 @@ featuredImage:
   type: ImageBlock
   url: /images/Logo bgreen.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Logo bgreen.png
-  altText: Project image
 ---
