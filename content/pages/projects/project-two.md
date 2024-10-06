@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Participação no Projeto Bgreen
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
   Projeto feito em grupo com o objetivo de sensibilizar os jovens para as
   questões ambientais através de spots de vídeos.
