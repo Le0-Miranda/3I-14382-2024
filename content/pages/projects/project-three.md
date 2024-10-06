@@ -13,3 +13,4 @@ featuredImage:
   altText: Project thumbnail image
   url: /images/b257db32994309.5605d1185dcca.png
 ---
+![](/images/b257db32994309.5605d1185dcca.png)
