@@ -53,6 +53,9 @@ sections:
     subtitle: ''
     items:
       - type: Label
+        label: Trabalho em Equipa
+        url: ''
+      - type: Label
         label: HTML
         url: ''
       - type: Label
@@ -72,9 +75,6 @@ sections:
         url: ''
       - type: Label
         label: Criativo
-        url: ''
-      - type: Label
-        label: Trabalho em Equipa
         url: ''
     colors: colors-f
     elementId: ''
