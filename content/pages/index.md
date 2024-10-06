@@ -49,7 +49,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: CtaSection
-    title: Let's do this
+    title: Biografia
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
