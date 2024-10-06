@@ -62,10 +62,10 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: 70%
+        label: Java
         url: ''
       - type: Label
-        label: Java
+        label: 70%
         url: ''
       - type: Label
         label: Hardware
