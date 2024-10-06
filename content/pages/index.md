@@ -50,9 +50,24 @@ sections:
       elementId: ''
   - type: CtaSection
     title: Biografia
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      # **Olá!**
+
+
+      O meu nome é Leonardo Rafael Carvalho Miranda e tenho 17 anos. Sou natural
+      de Lisboa, mas vivo em Ribeirão, V.N Famalicão. Frequento o curso de
+      Gestão e Programação de Sistemas Informáticos na OFICNA - Escola
+      Profissional.
+
+
+      Ao longo do tempo desenvolvi capacidades na Programação e Hardware.
+
+
+
+
+
+
+
     actions: []
     colors: colors-f
     backgroundSize: full
