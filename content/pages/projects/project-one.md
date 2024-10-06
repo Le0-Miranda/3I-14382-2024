@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Página de Acesso a Base de Dados
 colors: colors-a
 date: ''
-client: Awesome client
+client: ''
 description: >-
   Desenvolvimento de uma página WEB, usando por base a linguagem HTML/PHP,
   conectando uma base de dados à página WEB.
