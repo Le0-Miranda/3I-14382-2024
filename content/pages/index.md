@@ -53,10 +53,10 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML
+        label: PHP
         url: ''
       - type: Label
-        label: PHP
+        label: HTML
         url: ''
       - type: Label
         label: Python
