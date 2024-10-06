@@ -46,7 +46,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contato",
+                "label": "Projetos",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             }
