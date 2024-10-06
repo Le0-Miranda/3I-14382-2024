@@ -68,10 +68,10 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: 70%
+        label: Empreendedor
         url: ''
       - type: Label
-        label: Empreendedor
+        label: 70%
         url: ''
       - type: Label
         label: Criativo
