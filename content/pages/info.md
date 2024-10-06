@@ -174,9 +174,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Email:'
-    colors: colors-f
-    text: ''
 ---
