@@ -59,7 +59,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: Java
+        label: Pyton
         url: ''
       - type: Label
         label: Netlify
