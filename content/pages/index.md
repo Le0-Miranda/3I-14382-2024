@@ -77,7 +77,7 @@ sections:
         justifyContent: flex-start
   - type: MediaGallerySection
     title: Competências
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/icone-cercle-orange.png
