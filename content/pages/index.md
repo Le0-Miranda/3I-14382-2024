@@ -74,7 +74,7 @@ sections:
         label: Criativo
         url: ''
       - type: Label
-        label: Trabalho em equipe
+        label: Trabalho em equipa
         url: ''
     colors: colors-f
     elementId: ''
