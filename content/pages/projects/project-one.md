@@ -11,12 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-05 174334.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-05 174334.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections: []
 ---
 ![](/images/Captura%20de%20ecr%C3%A3%202024-10-05%20174334.png)
