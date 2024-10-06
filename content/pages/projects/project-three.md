@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Formação em Contexto de Trabalho
 colors: colors-a
 date: ''
-client: Awesome client
+client: ''
 description: >-
   Estágio na 3Ds Informática LDA, com o objetivo de por em prática as
   capacidades aprendidas em aula e vivenciar o dia a dia profissional.
