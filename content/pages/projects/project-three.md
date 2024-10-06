@@ -13,5 +13,4 @@ featuredImage:
   altText: Project thumbnail image
   url: /images/b257db32994309.5605d1185dcca.png
 ---
-![](/images/b257db32994309.5605d1185dcca.png)<https://www.3ds.com.pt/>
-
+![](/images/b257db32994309.5605d1185dcca.png)![](https://www.3ds.com.pt/)<https://www.3ds.com.pt/>
