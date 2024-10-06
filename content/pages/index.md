@@ -71,7 +71,7 @@ sections:
         label: Trabalho em equipa
         url: ''
       - type: Label
-        label: Swift
+        label: Criativo
         url: ''
     colors: colors-f
     elementId: ''
