@@ -71,10 +71,10 @@ sections:
         label: Empreendedor
         url: ''
       - type: Label
-        label: 70%
+        label: Criativo
         url: ''
       - type: Label
-        label: Criativo
+        label: 70%
         url: ''
     colors: colors-f
     elementId: ''
