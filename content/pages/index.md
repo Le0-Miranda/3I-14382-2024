@@ -49,7 +49,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: LabelsSection
-    title: Comptências
+    title: Competências
     subtitle: ''
     items:
       - type: Label
