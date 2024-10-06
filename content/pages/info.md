@@ -33,7 +33,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: Percurso Escolar
         text: |-
           **2015-2018**
 
