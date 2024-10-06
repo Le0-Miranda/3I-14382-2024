@@ -98,7 +98,7 @@ sections:
     actions:
       - type: Link
         label: Ver todos os Projetos
-        url: /projects
+        url: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
