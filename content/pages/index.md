@@ -62,7 +62,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: Netlify
+        label: Java
         url: ''
       - type: Label
         label: Pancakes
