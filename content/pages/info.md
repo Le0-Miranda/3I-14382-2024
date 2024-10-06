@@ -178,6 +178,5 @@ sections:
     variant: variant-a
     subtitle: 'Email:'
     colors: colors-f
-    text: |
-      [a14382@oficina.pt](a14382@oficina.pt)
+    text: ''
 ---
