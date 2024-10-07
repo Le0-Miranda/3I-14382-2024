@@ -13,9 +13,8 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: |
+          Técnico de Gestão e Programação de Sistemas Informáticos
         name: Leonardo Miranda
         title: ''
         image:
