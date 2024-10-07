@@ -10,42 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: |
-          Técnico de Gestão e Programação de Sistemas Informáticos
-        name: Leonardo Miranda
-        title: ''
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
