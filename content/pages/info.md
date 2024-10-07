@@ -11,14 +11,12 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      Sou um aluno que frequenta o curso de Gestão e Programação de Sistemas
-      Informáticos.
+    title: Sou frequente no curso de Gestão e Programação de Sistemas Informáticos.
     subtitle: >-
-      Sou um aluno empreendedor, criativo e emprenhado, gosto de programar,
-      praticar desporto, pesquisar mais a fundo sobre programação. Nos meus
-      temos livres, gosto de editar vídeos, e de testar meu conhecimento sobre
-      programação e hardware.
+      Sou empreendedor, criativo e empenhado, gosto de programar, praticar
+      desporto, pesquisar mais a fundo sobre programação. Nos meus temos livres,
+      gosto de editar vídeos, e de testar meu conhecimento sobre programação e
+      hardware.
     actions: []
     colors: colors-f
     backgroundSize: full
@@ -43,6 +41,18 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -110,64 +120,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: TikTok
-            altText: ''
-            url: '/https://www.tiktok.com/@fmtplays'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'Podem encontrar-me aqui:'
   - type: DividerSection
     title: Divider
     elementId: ''
