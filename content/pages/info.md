@@ -11,9 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: >-
-      Sou um aluno que frequenta o curso de Gestão e Programação de Sistemas
-      Informáticos.
+    title: Sou frequente no curso de Gestão e Programação de Sistemas Informáticos.
     subtitle: >-
       Sou um aluno empreendedor, criativo e emprenhado, gosto de programar,
       praticar desporto, pesquisar mais a fundo sobre programação. Nos meus
