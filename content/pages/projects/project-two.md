@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Participação no Projeto Bgreen
 colors: colors-a
-date: '0002-06-07'
+date: '2023-06-07'
 client: ''
 description: >-
   Projeto feito em grupo com o objetivo de sensibilizar os jovens para as
