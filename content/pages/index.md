@@ -15,7 +15,7 @@ sections:
       - type: Testimonial
         quote: |
           Técnico de Gestão e Programação de Sistemas Informáticos
-        name: Leonardo Miranda
+        name: Técnico de Gestão e Programação de Sistemas Informáticos
         title: ''
         image:
           type: ImageBlock
