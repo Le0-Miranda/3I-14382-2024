@@ -47,7 +47,7 @@ sections:
       altText: altText of the image
       caption: altText of the image caption
       elementId: ''
-      url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf.png
+      url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
   - type: CtaSection
     title: Biografia
     text: >
