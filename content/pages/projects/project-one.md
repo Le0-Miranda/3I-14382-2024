@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Página de Acesso a Base de Dados
 colors: colors-a
-date: ''
+date: '2024-05-10'
 client: ''
 description: >-
   Desenvolvimento de uma página WEB, usando por base a linguagem HTML/PHP,
