@@ -10,44 +10,42 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: |
+          Leonardo Miranda
+        name: Técnico de Gestão e Programação de Sistemas Informáticos
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
     colors: colors-f
-    backgroundSize: full
-    title: Leonardo Miranda
-    subtitle: Técnico de Gestão e Programação de Sistemas Informáticos
+    variant: variant-c
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
         textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    media:
-      type: ImageBlock
-      altText: altText of the image
-      caption: altText of the image caption
-      elementId: ''
-      url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
   - type: CtaSection
     title: Biografia
     text: >
