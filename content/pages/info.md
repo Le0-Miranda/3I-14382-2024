@@ -13,10 +13,10 @@ sections:
   - type: HeroSection
     title: Sou frequente no curso de Gestão e Programação de Sistemas Informáticos.
     subtitle: >-
-      Sou um aluno empreendedor, criativo e emprenhado, gosto de programar,
-      praticar desporto, pesquisar mais a fundo sobre programação. Nos meus
-      temos livres, gosto de editar vídeos, e de testar meu conhecimento sobre
-      programação e hardware.
+      Sou empreendedor, criativo e emprenhado, gosto de programar, praticar
+      desporto, pesquisar mais a fundo sobre programação. Nos meus temos livres,
+      gosto de editar vídeos, e de testar meu conhecimento sobre programação e
+      hardware.
     actions: []
     colors: colors-f
     backgroundSize: full
