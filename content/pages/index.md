@@ -44,7 +44,6 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
       altText: altText of the image
       caption: altText of the image caption
       elementId: ''
