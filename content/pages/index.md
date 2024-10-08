@@ -17,18 +17,18 @@ sections:
           Leonardo Miranda
         name: Técnico de Gestão e Programação de Sistemas Informáticos
         title: ''
-        image:
-          type: ImageBlock
-          url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
             fontWeight: 400
           title:
             fontWeight: 400
+        image:
+          type: ImageBlock
+          url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
     colors: colors-f
     variant: variant-c
     elementId: ''
