@@ -17,11 +17,6 @@ sections:
           Leonardo Miranda
         name: Técnico de Gestão e Programação de Sistemas Informáticos
         title: ''
-        image:
-          type: ImageBlock
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           name:
