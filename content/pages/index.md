@@ -25,7 +25,7 @@ sections:
             fontWeight: 400
         image:
           type: ImageBlock
-          url: /images/Imagem WhatsApp 2024-10-07 às 18.23.07_b8f3c8cf (1).png
+          url: /images/altText of the image.png
           altText: altText of the image
           caption: Caption of the image
           elementId: ''
