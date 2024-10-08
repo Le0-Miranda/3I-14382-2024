@@ -134,7 +134,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Contacte-me
     items:
       - type: FeaturedItem
         title: 'Nome:'
